@@ -1,0 +1,252 @@
+pregunta,a,b,c,d,correcta,materia,tema
+¿Cuál es el resultado de simplificar (3/5)+(1/4)-(2/3)?,11/60,-11/60,13/60,1/10,b,Matemáticas,Operaciones con núm. reales complejos y expr. algebraicas
+El resultado de (2+5i)-(3-2i) es:,-1+7i,5+3i,-1+3i,5+7i,a,Matemáticas,Operaciones con núm. reales complejos y expr. algebraicas
+Al simplificar 4x-[2y+3x-(5y-x)] se obtiene:,0,2x-7y,-3y,8y-2x,a,Matemáticas,Operaciones con núm. reales complejos y expr. algebraicas
+¿Cuál es la factorización de x²-7x+12?,(x-3)(x-4),(x+3)(x+4),(x-2)(x-6),(x+2)(x+6),a,Matemáticas,Productos notables y factorización
+¿A qué es igual (2x-1)³?,8x³-12x²+6x-1,8x³-6x²+6x-1,8x³+12x²-6x+1,8x³-1,a,Matemáticas,Productos notables y factorización
+¿Cuál es el residuo al dividir 2x³-5x²+x-3 entre (x-2)?,-5,-1,1,5,b,Matemáticas,Productos notables y factorización
+Al simplificar (x²-9)/(x²+4x+3) se obtiene:,(x-3)/(x+1),(x+3)/(x+1),(x-3)/(x+3),1,a,Matemáticas,Productos notables y factorización
+El resultado de (x/(x+1))+(1/(x-1)) es:,(x²+1)/(x²-1),(x+1)/(x²-1),(x²-1)/(x²-1),(2x+1)/(x²-1),a,Matemáticas,Productos notables y factorización
+La solución de 5x-3(2x-4)=2x+12 es:,0,-8,8,16,a,Matemáticas,Ecuaciones
+¿Cuáles son las raíces de x²+6x+8=0?,x=-2 x=-4,x=2 x=4,x=-1 x=-8,x=1 x=8,a,Matemáticas,Ecuaciones
+Para 2x²-4x+3=0 el discriminante es:,-8,8,-4,4,a,Matemáticas,Ecuaciones
+¿Cuál es el conjunto solución de 3x+5>2x-7?,x>-12,x<-12,x>12,x<12,a,Matemáticas,Desigualdades
+El intervalo solución de -4≤2x-6<8 es:,1≤x<7,-1≤x<1,-5≤x<1,5≤x<14,a,Matemáticas,Desigualdades
+La solución del sistema {2x+y=7; x-y=-1} es:,x=2 y=3,x=3 y=1,x=1 y=5,x=4 y=-1,a,Matemáticas,Sistemas de ecuaciones
+Al resolver {x+y+z=6; 2x-y+z=3; x+2y-z=2} se obtiene:,x=1 y=2 z=3,x=2 y=1 z=3,x=3 y=2 z=1,x=1 y=3 z=2,a,Matemáticas,Sistemas de ecuaciones
+¿Cuál es el dominio de f(x)=√(6-2x)?,(-∞ 3],(-∞ 3),[3 ∞),(3 ∞),a,Matemáticas,Funciones algebraicas
+Si f(x)=x²+1 y g(x)=x-3 ¿cuál es (f∘g)(x)?,x²-6x+10,x²+10,x²-6x+8,x²-2x+4,a,Matemáticas,Funciones algebraicas
+Una función es decreciente en un intervalo si:,f'(x)<0,f'(x)>0,f'(x)=0,f''(x)>0,a,Matemáticas,Funciones algebraicas
+La función f(x)=(x²-4)/(x-2) tiene una discontinuidad removible en:,x=2,x=-2,x=0,x=2 y x=-2,a,Matemáticas,Funciones algebraicas
+El valor de tan(θ) si sen(θ)=3/5 y θ es agudo es:,3/4,4/3,4/5,5/4,a,Matemáticas,Trigonometría y Funciones Trigonométricas
+La identidad trigonométrica fundamental es:,sen²θ+cos²θ=1,1+tan²θ=sec²θ,1+cot²θ=csc²θ,sen(2θ)=2senθcosθ,a,Matemáticas,Trigonometría y Funciones Trigonométricas
+El período de y=4 cos(2x) es:,π,2π,π/2,4π,a,Matemáticas,Trigonometría y Funciones Trigonométricas
+¿Cuál es el rango de f(x)=3ˣ+1?,(1 ∞),(0 ∞),(-∞ ∞),[1 ∞),a,Matemáticas,Funciones exponenciales y logarítmicas
+La asíntota vertical de f(x)=log₂(x-5) es la recta:,x=5,y=5,x=0,y=0,a,Matemáticas,Funciones exponenciales y logarítmicas
+La distancia entre A(-1 2) y B(3 -1) es:,5,4,√13,√17,a,Matemáticas,Geometría Analítica: Recta
+Las coordenadas del punto que divide al segmento A(2 1) a B(8 5) en razón 1:3 son:,(3.5 2),(4 2.5),(3 1.75),(5 3.25),a,Matemáticas,Geometría Analítica: Recta
+La pendiente de la recta que pasa por (4 -2) y (1 4) es:,-2,2,1/2,-1/2,a,Matemáticas,Geometría Analítica: Recta
+La ecuación de la recta con pendiente -2 que pasa por (1 -3) es:,y=-2x-1,y=-2x+1,y=2x-5,y=2x-1,a,Matemáticas,Geometría Analítica: Recta
+Dos rectas son perpendiculares si:,m1*m2=-1,m1=m2,m1*m2=1,No se intersecan,a,Matemáticas,Geometría Analítica: Recta
+La distancia del punto P(3 -2) a la recta 4x-3y+5=0 es:,3.4,2.6,5,1.2,a,Matemáticas,Geometría Analítica: Recta
+La ecuación (x-2)²+(y+1)²=16 representa una circunferencia con:,Centro (2 -1) Radio 4,Centro (-2 1) Radio 4,Centro (2 -1) Radio 16,Centro (-2 1) Radio 16,a,Matemáticas,Geometría Analítica: Cónicas
+La ecuación de la parábola con vértice en (0 0) y foco en (0 4) es:,x²=16y,y²=16x,x²=-16y,y²=-16x,a,Matemáticas,Geometría Analítica: Cónicas
+Para la elipse x²/36+y²/20=1 la distancia focal (2c) es:,8,12,4√5,16,a,Matemáticas,Geometría Analítica: Cónicas
+Las asíntotas de la hipérbola x²/9-y²/4=1 son:,y=±(2/3)x,y=±(3/2)x,y=±(4/9)x,y=±(9/4)x,a,Matemáticas,Geometría Analítica: Cónicas
+La ecuación 4x²+9y²-16x+18y-11=0 representa una:,Elipse,Circunferencia,Hipérbola,Parábola,a,Matemáticas,Ecuación general de segundo grado
+El valor de lim_{x→3} (x²-9)/(x-3) es:,6,0,3,No existe,a,Matemáticas,Límites
+¿Cuál es lim_{x→∞} (3x²+2x)/(x²-5)?,3,0,1,∞,a,Matemáticas,Límites
+La función f(x)={x+2 si x<1;4 si x=1;3x-1 si x>1} es continua en:,Solo en x=1,En todos los reales,En todos excepto x=1,En ningún lado,c,Matemáticas,Límites
+Usando la definición formal el límite L de f(x) cuando x→a es:,Para todo ε>0 existe δ>0 tal que si 0<|x-a|<δ entonces |f(x)-L|<ε,Para algún ε>0 existe δ>0...,Para todo δ>0 existe ε>0...,Para algún δ>0 existe ε>0...,a,Matemáticas,Límites
+La derivada de f(x)=5x³-2x²+x-7 es:,15x²-4x+1,15x²-4x,5x²-2x+1,15x²-2x+1,a,Matemáticas,La derivada
+Usando la regla de la cadena la derivada de f(x)=√(3x²+1) es:,(3x)/√(3x²+1),(6x)/√(3x²+1),1/(2√(3x²+1)),3x/√(x²+1),a,Matemáticas,La derivada
+La derivada implícita de x²+y²=25 es:,dy/dx=-x/y,dy/dx=x/y,dy/dx=-y/x,dy/dx=y/x,a,Matemáticas,La derivada
+La tercera derivada de f(x)=sen(2x) es:,-8 cos(2x),8 cos(2x),-4 cos(2x),4 sen(2x),a,Matemáticas,La derivada
+La pendiente de la recta tangente a y=x³ en (2 8) es:,12,8,6,4,a,Matemáticas,La derivada
+La ecuación de la recta normal a y=x² en (1 1) es:,x+2y-3=0,2x+y-3=0,x-2y+1=0,2x-y-1=0,a,Matemáticas,La derivada
+Si s(t)=t³-6t²+9t la aceleración en t=2 es:,0 m/s²,-6 m/s²,6 m/s²,-3 m/s²,a,Matemáticas,La derivada
+Los puntos críticos de f(x)=x³-3x están en:,x=-1 y x=1,x=0,x=-√3 y x=√3,x=-3 y x=3,a,Matemáticas,La derivada
+El punto (0 0) para f(x)=x⁴ es un:,Mínimo relativo,Máximo relativo,Punto de inflexión,No es crítico,a,Matemáticas,La derivada
+El máximo absoluto de f(x)=4-x² en [-1 2] es:,4 (en x=0),3 (en x=1),0 (en x=2),5 (en x=-1),a,Matemáticas,La derivada
+Un punto de inflexión ocurre cuando:,f''(x) cambia de signo,f'(x)=0,f'(x) cambia de signo,f''(x)=0,a,Matemáticas,La derivada
+Para un rectángulo de perímetro 20 cm las dimensiones que maximizan el área son:,5 cm x 5 cm,4 cm x 6 cm,3 cm x 7 cm,2 cm x 8 cm,a,Matemáticas,La derivada
+La integral ∫(3x²-2x+1) dx es:,x³-x²+x+C,6x-2+C,x³-x²+C,3x³-2x²+x+C,a,Matemáticas,La integral
+Al evaluar ∫_0^2 (2x+1) dx se obtiene:,6,4,5,8,a,Matemáticas,La integral
+La integral ∫e^(3x) dx es:,(1/3)e^(3x)+C,3e^(3x)+C,e^(3x)+C,e^(3x)/ln(3)+C,a,Matemáticas,La integral
+¿Qué método es útil para ∫x cos(x) dx?,Integración por partes,Sustitución,Integral inmediata,Fracciones parciales,a,Matemáticas,La integral
+El resultado de ∫(1/x) dx es:,ln|x|+C,1/x²+C,ln(x)+C,-1/x²+C,a,Matemáticas,La integral
+El resultado de (√-16)*(√-9) es:,-12,12,12i,-12i,d,Matemáticas,Operaciones con núm. reales complejos y expr. algebraicas
+La forma polar de z=-2+2i es:,2√2(cos135°+i sen135°),2(cos45°+i sen45°),4(cos135°+i sen135°),2√2(cos45°+i sen45°),a,Matemáticas,Operaciones con núm. reales complejos y expr. algebraicas
+El conjugado de (3-4i) es:,3+4i,-3+4i,-3-4i,3-4i,a,Matemáticas,Operaciones con núm. reales complejos y expr. algebraicas
+El módulo de z=1-i es:,√2,2,1,0,a,Matemáticas,Operaciones con núm. reales complejos y expr. algebraicas
+Al desarrollar (a+b)^4 un término es:,4a³b,6a²b²,a⁴+b⁴,4ab³,b,Matemáticas,Productos notables y factorización
+Según el Teorema del Factor (x+2) es factor de P(x)=x³+2x²-x-2 porque:,P(-2)=0,P(2)=0,P(0)=-2,P(1)=0,a,Matemáticas,Productos notables y factorización
+La simplificación de [(x²-5x+6)/(x²-4)]/[(x-3)/(x+2)] da:,1,(x-3)/(x-2),(x-2)/(x-3),(x+3)/(x+2),a,Matemáticas,Productos notables y factorización
+El resultado de [x/(x+1)]*[(x²-1)/x] es:,x-1,x+1,(x-1)/(x+1),1,a,Matemáticas,Productos notables y factorización
+La solución de (x+2)/3-(x-1)/4=2 es:,x=10,x=12,x=14,x=16,c,Matemáticas,Ecuaciones
+La suma de las raíces de 3x²-9x+2=0 es:,3,-3,2/3,-2/3,a,Matemáticas,Ecuaciones
+El producto de las raíces de x²-8x+15=0 es:,15,8,-15,-8,a,Matemáticas,Ecuaciones
+¿Cuál es el conjunto solución de |2x-5|<7?,-1<x<6,x<-1 o x>6,x<6,x>-1,a,Matemáticas,Desigualdades
+El sistema {y=3x-1; 2x+y=9} tiene solución:,x=2 y=5,x=5 y=2,x=1 y=2,x=4 y=11,a,Matemáticas,Sistemas de ecuaciones
+¿Para qué valor de k el sistema {x+2y=5; 3x+ky=15} tiene infinitas soluciones?,k=6,k=2,k=3,k=5,a,Matemáticas,Sistemas de ecuaciones
+El rango de f(x)=x²-4 es:,[-4 ∞),(-4 ∞),[0 ∞),(-∞ ∞),a,Matemáticas,Funciones algebraicas
+La función f(x)=1/(x-3) es:,Decreciente en (-∞ 3) y (3 ∞),Creciente en todo su dominio,Decreciente en todo su dominio,Constante,a,Matemáticas,Funciones algebraicas
+La operación (f-g)(x) si f(x)=x² y g(x)=2x+1 es:,x²-2x-1,x²+2x+1,-x²-2x-1,2x+1-x²,a,Matemáticas,Funciones algebraicas
+¿A cuántos radianes equivalen 150°?,5π/6 rad,2π/3 rad,π/3 rad,3π/4 rad,a,Matemáticas,Trigonometría y Funciones Trigonométricas
+El valor exacto de cos(π/6) es:,√3/2,1/2,√2/2,1,a,Matemáticas,Trigonometría y Funciones Trigonométricas
+La amplitud de y=-5 sen(4x) es:,5,-5,4,1,a,Matemáticas,Trigonometría y Funciones Trigonométricas
+La solución de 2ˣ=32 es:,x=5,x=4,x=6,x=16,a,Matemáticas,Funciones exponenciales y logarítmicas
+La solución de log₃(x+2)=2 es:,x=7,x=1,x=4,x=10,a,Matemáticas,Funciones exponenciales y logarítmicas
+La asíntota horizontal de f(x)=2ˣ+3 es:,y=3,y=0,x=0,x=3,a,Matemáticas,Funciones exponenciales y logarítmicas
+El punto medio de (-3 4) y (5 -2) es:,(1 1),(4 3),(-1 3),(2 2),a,Matemáticas,Geometría Analítica: Recta
+La pendiente de una recta horizontal es:,0,1,Indefinida,-1,a,Matemáticas,Geometría Analítica: Recta
+La ecuación general de la recta que pasa por (0 2) y (3 0) es:,2x+3y-6=0,3x+2y-6=0,2x-3y+6=0,3x-2y+6=0,a,Matemáticas,Geometría Analítica: Recta
+La pendiente de una recta perpendicular a y=(1/4)x-7 es:,-4,-1/4,4,1/4,a,Matemáticas,Geometría Analítica: Recta
+La ecuación de la mediatriz del segmento A(2 1) a B(6 5) tiene pendiente:,-1,1,0,Indefinida,a,Matemáticas,Geometría Analítica: Recta
+El radio de la circunferencia x²+y²-6x+4y-3=0 es:,4,√13,5,√10,a,Matemáticas,Geometría Analítica: Cónicas
+El foco de la parábola y²=-8x está en:,(-2 0),(2 0),(0 -2),(0 2),a,Matemáticas,Geometría Analítica: Cónicas
+El centro de la elipse (x-1)²/16+(y+3)²/9=1 es:,(1 -3),(-1 3),(1 3),(-1 -3),a,Matemáticas,Geometría Analítica: Cónicas
+Un vértice de la hipérbola y²/25-x²/16=1 está en:,(0 5),(5 0),(0 4),(4 0),a,Matemáticas,Geometría Analítica: Cónicas
+La ecuación 9x²-4y²-36x+8y-4=0 representa una:,Hipérbola,Elipse,Circunferencia,Parábola,a,Matemáticas,Ecuación general de segundo grado
+El discriminante B²-4AC es negativo y A=C B=0. Representa una:,Circunferencia,Elipse,Hipérbola,Parábola,a,Matemáticas,Ecuación general de segundo grado
+El valor de lim_{x→0} (sen(5x))/x es:,5,1,0,No existe,a,Matemáticas,Límites
+¿Cuál es lim_{x→4} √(x+5)?,3,√9,√4,2,a,Matemáticas,Límites
+La función f(x)=(x²-1)/(x-1) tiene una discontinuidad en x=1 que es:,Removible,Infinita,Por salto,Esencial,a,Matemáticas,Límites
+La derivada de f(x)=ln(x²) es:,2/x,1/x²,2x/x²,2,a,Matemáticas,La derivada
+La derivada de f(x)=e^{-x} es:,-e^{-x},e^{-x},-e^{x},-1,a,Matemáticas,La derivada
+La derivada de un producto f(x)*g(x) es:,f'(x)g(x)+f(x)g'(x),f'(x)g'(x),f(x)g'(x)+g(x)f'(x),f'(x)/g'(x),a,Matemáticas,La derivada
+La derivada de f(x)=sec(x) es:,sec(x)tan(x),-csc(x)cot(x),-csc²(x),tan(x),a,Matemáticas,La derivada
+Si f''(x)>0 en un intervalo la función es:,Cóncava hacia arriba,Cóncava hacia abajo,Creciente,Decreciente,a,Matemáticas,La derivada
+Los puntos donde f'(x)=0 o no existe se llaman:,Puntos críticos,Puntos de inflexión,Extremos absolutos,Puntos estacionarios,a,Matemáticas,La derivada
+La velocidad instantánea es la derivada de la función:,Posición,Aceleración,Desplazamiento,Rapidez,a,Matemáticas,La derivada
+La integral ∫cos(x) dx es:,sen(x)+C,-cos(x)+C,-sen(x)+C,cos(x)+C,a,Matemáticas,La integral
+La integral ∫1/(1+x²) dx es:,arctan(x)+C,ln(1+x²)+C,arcsen(x)+C,(1/2)ln(1+x²)+C,a,Matemáticas,La integral
+El método de integración por partes usa:,∫ u dv = uv - ∫ v du,∫ u dv = uv + ∫ v du,∫ u dv = v du - ∫ u dv,∫ u v = ∫ u * ∫ v,a,Matemáticas,La integral
+La integral definida ∫_a^b f(x) dx representa:,El área neta bajo la curva,El área total siempre positiva,La pendiente media,El valor promedio,a,Matemáticas,La integral
+El Teorema Fundamental del Cálculo relaciona:,Derivación e integración,Límites y continuidad,Sumas de Riemann y área,Máximos y mínimos,a,Matemáticas,La integral
+¿Cuál es el valor de i⁴⁷?,-i,i,1,-1,d,Matemáticas,Operaciones con núm. reales complejos y expr. algebraicas
+¿Cuál es la parte real de (3+2i)(3-2i)?,13,5,9,4,a,Matemáticas,Operaciones con núm. reales complejos y expr. algebraicas
+¿Cuál es la simplificación de (a³b⁻²)/(a⁻¹b⁴)?,a⁴/b⁶,a²/b²,b⁶/a⁴,a⁴b⁶,a,Matemáticas,Operaciones con núm. reales complejos y expr. algebraicas
+El coeficiente de x²y² en (x+y)⁴ es:,6,4,12,1,a,Matemáticas,Productos notables y factorización
+Si P(x)=2x³-kx²+3x-6 es divisible entre (x-2) entonces k vale:,4,5,6,7,a,Matemáticas,Productos notables y factorización
+La solución de 2x²-4x+1=0 es:,x=(2±√2)/2,x=(4±√8)/4,x=1±√2/2,x=2±√2,a,Matemáticas,Ecuaciones
+La solución de (x-1)²=4 es:,x=3 y x=-1,x=1 y x=3,x=5 y x=-3,x=2 y x=-2,a,Matemáticas,Ecuaciones
+El conjunto solución de 2(x-3)+1<5 es:,x<5,x>5,x<4,x>4,a,Matemáticas,Desigualdades
+El sistema {x+2y-z=4; 2x-y+z=3; 3x+y=7} tiene determinante del sistema igual a:,0,5,-5,10,a,Matemáticas,Sistemas de ecuaciones
+Si f(x)=|x-2| su gráfica tiene un punto anguloso en:,x=2,x=0,x=-2,x=1,a,Matemáticas,Funciones algebraicas
+La función f(x)=(x³-1)/(x-1) en x=1:,Tiene una discontinuidad removible,Es continua,Tiene una asíntota vertical,No está definida y no es removible,a,Matemáticas,Funciones algebraicas
+La función inversa de f(x)=2x+3 es:,f⁻¹(x)=(x-3)/2,f⁻¹(x)=(x+3)/2,f⁻¹(x)=2x-3,f⁻¹(x)=3-2x,a,Matemáticas,Funciones algebraicas
+El valor de sec(π/4) es:,√2,2,1,√2/2,a,Matemáticas,Trigonometría y Funciones Trigonométricas
+La identidad 1+cot²θ es igual a:,csc²θ,sec²θ,tan²θ,cos²θ,a,Matemáticas,Trigonometría y Funciones Trigonométricas
+El período de y=tan(x) es:,π,2π,π/2,1,a,Matemáticas,Trigonometría y Funciones Trigonométricas
+La función f(x)=ln(x) tiene asíntota vertical en:,x=0,y=0,x=1,y=1,a,Matemáticas,Funciones exponenciales y logarítmicas
+El dominio de f(x)=log(3-x) es:,(-∞ 3),(3 ∞),(-∞ 3],[3 ∞),a,Matemáticas,Funciones exponenciales y logarítmicas
+La solución de e^(2x)=5 es:,x=(ln5)/2,x=ln(5/2),x=ln√5,x=2ln5,a,Matemáticas,Funciones exponenciales y logarítmicas
+La ecuación de la recta vertical que pasa por (4 -1) es:,x=4,y=-1,x=-1,y=4,a,Matemáticas,Geometría Analítica: Recta
+La distancia del origen a la recta 3x+4y-10=0 es:,2,1,10/√13,10/5,a,Matemáticas,Geometría Analítica: Recta
+La ecuación de la altura desde A(0 0) en un triángulo con B(2 4) y C(6 0) tiene pendiente:,-1/2,2,1/2,-2,c,Matemáticas,Geometría Analítica: Recta
+Para que x²+y²+Dx+Ey+F=0 tenga radio cero se debe cumplir:,D²+E²-4F=0,D²+E²-4F>0,D²+E²-4F<0,F=0,a,Matemáticas,Geometría Analítica: Cónicas
+El lado recto de la parábola x²=12y mide:,12,6,24,3,a,Matemáticas,Geometría Analítica: Cónicas
+La excentricidad de la elipse x²/25+y²/9=1 es:,4/5,3/5,5/4,√34/5,a,Matemáticas,Geometría Analítica: Cónicas
+Las asíntotas de (y²/9)-(x²/16)=1 son:,y=±(3/4)x,y=±(4/3)x,y=±(9/16)x,y=±(16/9)x,a,Matemáticas,Geometría Analítica: Cónicas
+Al completar cuadrados x²+y²-2x+4y-4=0 se convierte en:,(x-1)²+(y+2)²=9,(x+1)²+(y-2)²=9,(x-1)²+(y+2)²=3,(x+1)²+(y-2)²=3,a,Matemáticas,Ecuación general de segundo grado
+La gráfica de 3x²+3y²-6x+12y+5=0 es:,Una circunferencia,Una elipse,Un punto,No representa una cónica real,a,Matemáticas,Ecuación general de segundo grado
+El límite lim_{x→0} (1-cos(x))/x² es:,1/2,0,1,No existe,a,Matemáticas,Límites
+El límite lim_{x→-∞} (2x³-x)/(x³+5) es:,2,0,-2,∞,a,Matemáticas,Límites
+La continuidad de f(x) en x=a requiere que:,lim_{x→a} f(x)=f(a),f(a) esté definida,El límite exista,Todas las anteriores,d,Matemáticas,Límites
+La derivada de f(x)=aˣ (a>0 a≠1) es:,aˣ ln(a),aˣ,eˣ,xaˣ⁻¹,a,Matemáticas,La derivada
+La regla para derivar un cociente f(x)/g(x) es:,[f'(x)g(x)-f(x)g'(x)]/[g(x)]²,[f'(x)g(x)+f(x)g'(x)]/[g(x)]²,f'(x)/g'(x),[f(x)g'(x)-g(x)f'(x)]/[g(x)]²,a,Matemáticas,La derivada
+La derivada de f(x)=arcsen(x) es:,1/√(1-x²),1/(1+x²),-1/√(1-x²),1/√(x²-1),a,Matemáticas,La derivada
+Si f'(c)=0 y f''(c)<0 entonces en x=c f tiene:,Un máximo relativo,Un mínimo relativo,Un punto de inflexión,Un punto silla,a,Matemáticas,La derivada
+La aceleración es la derivada de:,La velocidad,La posición,El desplazamiento,La rapidez,a,Matemáticas,La derivada
+Hallar dos números positivos con producto 16 y suma mínima se resuelve con:,Optimización usando derivadas,Integral definida,Límites al infinito,Teorema del Valor Medio,a,Matemáticas,La derivada
+La integral ∫(2x+1)³ dx se puede resolver por:,Sustitución simple u=2x+1,Integración por partes,Fracciones parciales,Integral inmediata,a,Matemáticas,La integral
+La integral ∫x eˣ dx es:,eˣ(x-1)+C,eˣ(x+1)+C,x eˣ+C,eˣ+C,a,Matemáticas,La integral
+La integral ∫sin²(x) dx requiere usar:,sin²(x)=(1-cos(2x))/2,sin²(x)=1-cos²(x),sin(2x)=2sin(x)cos(x),cos²(x)-sin²(x)=cos(2x),a,Matemáticas,La integral
+El área entre y=x² e y=2x en [0 2] se calcula con:,∫₀² (2x-x²) dx,∫₀² (x²-2x) dx,∫₀² √(2x-x²) dx,∫₀² (2x+x²) dx,a,Matemáticas,La integral
+El valor promedio de f(x)=x² en [0 3] es:,3,9,1,4.5,a,Matemáticas,La integral
+El número complejo que satisface z²=-9 es:,3i y -3i,3 y -3,9i y -9i,√9 y -√9,a,Matemáticas,Operaciones con núm. reales complejos y expr. algebraicas
+La expresión (xⁿ-aⁿ) es divisible entre (x-a) para n entero positivo. Esto es el:,Teorema del Factor,Teorema del Residuo,Binomio de Newton,Propiedad distributiva,a,Matemáticas,Productos notables y factorización
+Al resolver 1/(x+1)+1/(x-1)=1 se obtiene:,x=±√2,x=0,x=1,x=2,a,Matemáticas,Ecuaciones
+La desigualdad x²-4≤0 tiene solución:,-2≤x≤2,x≤-2 o x≥2,x≤2,x≥-2,a,Matemáticas,Desigualdades
+Para que un sistema 3x3 tenga solución única el determinante debe ser:,Diferente de cero,Cero,Positivo,Negativo,a,Matemáticas,Sistemas de ecuaciones
+La función f(x)=√(x) tiene dominio:,[0 ∞),(0 ∞),(-∞ ∞),(-∞ 0],a,Matemáticas,Funciones algebraicas
+La función f(x)=1/x es:,Impar,Par,Ni par ni impar,Periódica,a,Matemáticas,Funciones algebraicas
+El valor de sen(π/2) es:,1,0,-1,√2/2,a,Matemáticas,Trigonometría y Funciones Trigonométricas
+La función cos(x) es par porque:,cos(-x)=cos(x),cos(-x)=-cos(x),cos(x+2π)=cos(x),cos(π-x)=-cos(x),a,Matemáticas,Trigonometría y Funciones Trigonométricas
+f(x)=2ˣ y g(x)=log₂(x) son:,Funciones inversas,Funciones iguales,Funciones crecientes,Funciones decrecientes,a,Matemáticas,Funciones exponenciales y logarítmicas
+La pendiente de la recta que forma un ángulo de 45° con el eje X es:,1,√3/2,√2/2,0,a,Matemáticas,Geometría Analítica: Recta
+La ecuación de la circunferencia con centro en (0 0) que pasa por (3 4) es:,x²+y²=25,x²+y²=5,x²+y²=9,x²+y²=16,a,Matemáticas,Geometría Analítica: Cónicas
+El vértice de la parábola y=x²-6x+10 está en:,(3 1),(-3 1),(3 -1),(-3 -1),a,Matemáticas,Geometría Analítica: Cónicas
+Los focos de la elipse x²/100+y²/36=1 están en:,(±8 0),(0 ±8),(±10 0),(0 ±6),a,Matemáticas,Geometría Analítica: Cónicas
+La ecuación 4x²-y²=16 representa una hipérbola con eje focal en el:,Eje X,Eje Y,Recta y=x,Origen,a,Matemáticas,Ecuación general de segundo grado
+La traslación para eliminar términos lineales en x²+y²-4x+6y+4=0 es:,h=2 k=-3,h=-2 k=3,h=4 k=-6,h=-4 k=6,a,Matemáticas,Ecuación general de segundo grado
+El límite lim_{x→1} (x³-1)/(x-1) es:,3,1,0,No existe,a,Matemáticas,Límites
+Si f es continua en [a b] y derivable en (a b) existe c en (a b) tal que f'(c)=[f(b)-f(a)]/(b-a). Esto es el:,Teorema del Valor Medio,Teorema de Rolle,Teorema del Valor Intermedio,Teorema Fundamental,a,Matemáticas,Límites
+La derivada de f(x)=x^x es:,x^x(1+ln x),x^x ln x,x^{x-1},x^x/ln x,a,Matemáticas,La derivada
+Un punto de inflexión de f(x)=x³-3x² es:,(1 -2),(0 0),(2 -4),(3 0),a,Matemáticas,La derivada
+La integral ∫dx/√(1-x²) es:,arcsen(x)+C,arccos(x)+C,arctan(x)+C,ln|√(1-x²)|+C,a,Matemáticas,La integral
+El área bajo f(x)=1/x desde x=1 a x=e es:,1,0,e,ln(e)-ln(1)=1,a,Matemáticas,La integral
+El valor de la expresión (√8 * √18) / √2 es:,6,12,√6,3,a,Matemáticas,Operaciones con núm. reales complejos y expr. algebraicas
+La forma binomial del número complejo 4(cos(π/3) + i sen(π/3)) es:,2 + 2√3 i,2√3 + 2i,4 + 4√3 i,2√3 + 4i,a,Matemáticas,Operaciones con núm. reales complejos y expr. algebraicas
+El sexto término del desarrollo de (x + 2y)^8 es:,1792 x³ y⁵,1120 x⁵ y³,448 x⁶ y²,560 x⁴ y⁴,a,Matemáticas,Productos notables y factorización
+Si (x-3) es factor del polinomio P(x)=2x³ + kx² - 23x + 12| el valor de k es:,-5,-3,3,5,a,Matemáticas,Productos notables y factorización
+La suma de las soluciones de la ecuación 1/(x-2) + 1/(x+2) = 3/4 es:,0,2,8/3,4,a,Matemáticas,Ecuaciones
+La ecuación (x-1)²/2 = 2x - 3 tiene:,Una solución real,Dos soluciones reales,Una solución doble,Ninguna solución real,a,Matemáticas,Ecuaciones
+El conjunto solución de la desigualdad (x-3)/(x+1) ≥ 0 es:,(-∞ -1) U [3 ∞),[-1 3],(-∞ -1] U [3 ∞),(-1 3),a,Matemáticas,Desigualdades
+Para qué valor de a el sistema { ax + 2y = 6; 3x + (a-1)y = 9 } tiene infinitas soluciones?,a=3,a=-2,a=2,a=-3,a,Matemáticas,Sistemas de ecuaciones
+La regla de correspondencia de una función que asigna a cada número su cubo disminuido en 2 es:,f(x)=x³-2,f(x)=3x-2,f(x)=(x-2)³,f(x)=x-2³,a,Matemáticas,Funciones algebraicas
+Si f(x)=x/(x+1)| entonces f(f(2)) es igual a:,2/5,2/3,4/9,1/2,a,Matemáticas,Funciones algebraicas
+El valor de cos(15°) usando ángulos compuestos (cos(45°-30°)) es:,(√6+√2)/4,(√6-√2)/4,√3/2,1/√2,a,Matemáticas,Trigonometría y Funciones Trigonométricas
+Si en un triángulo ABC, a=8, b=6 y el ángulo C=60°, la longitud del lado c es:,2√13,√52,10,2√7,a,Matemáticas,Trigonometría y Funciones Trigonométricas
+La solución de la ecuación log(x+1) + log(x-1) = log 3 es:,x=2,x=-2,x=2 y x=-2,x=√2,a,Matemáticas,Funciones exponenciales y logarítmicas
+El dominio de la función f(x) = ln(4 - x²) es:,(-2 2),[-2 2],(-∞ -2) U (2 ∞),(-∞ -2] U [2 ∞),a,Matemáticas,Funciones exponenciales y logarítmicas
+Las coordenadas del punto que divide al segmento de A(-3 1) a B(5 7) en la razón 3:1 son:,(3 5.5),(0 4),(1 5.5),(3 4),a,Matemáticas,Geometría Analítica: Recta
+La ecuación de la recta que pasa por la intersección de 2x-y=3 y x+y=6 y es paralela a 4x+2y=7 es:,2x+y=9,2x+y=11,4x+2y=15,x+2y=9,a,Matemáticas,Geometría Analítica: Recta
+El área del triángulo cuyos vértices son A(0 0)| B(4 1) y C(1 4) es:,7.5 u²,6.5 u²,8 u²,15 u²,a,Matemáticas,Geometría Analítica: Recta
+La ecuación de la circunferencia que pasa por los puntos (0 0)| (4 0) y (0 3) es:,x²+y²-4x-3y=0,x²+y²-4x-3y+7=0,(x-2)²+(y-1.5)²=6.25,(x+2)²+(y+1.5)²=6.25,a,Matemáticas,Geometría Analítica: Cónicas
+La ecuación de la parábola con vértice (2 -1) y foco (2 1) es:,(x-2)² = 8(y+1),(x-2)² = -8(y+1),(y+1)² = 8(x-2),(y+1)² = -8(x-2),a,Matemáticas,Geometría Analítica: Cónicas
+La longitud del eje mayor de la elipse 9x² + 4y² - 36x + 8y + 4 = 0 es:,6 unidades,4 unidades,2√5 unidades,3 unidades,a,Matemáticas,Geometría Analítica: Cónicas
+La ecuación de la hipérbola con centro (0 0)| un vértice en (0 4) y una asíntota y = (4/3)x es:,y²/16 - x²/9 = 1,x²/9 - y²/16 = 1,y²/9 - x²/16 = 1,x²/16 - y²/9 = 1,a,Matemáticas,Geometría Analítica: Cónicas
+La ecuación 2x² + 2y² - 4x + 8y - 1 = 0 representa una circunferencia. Su centro es:,(1 -2),(-1 2),(2 -4),(-2 4),a,Matemáticas,Ecuación general de segundo grado
+Mediante una traslación de ejes| la ecuación xy - 2x + 3y - 6 = 0 puede transformarse en una ecuación de la forma X'Y' = k. El valor de k es:,12,-12,6,-6,a,Matemáticas,Ecuación general de segundo grado
+El valor del límite lim_{x→0} (√(x+4) - 2)/x es:,1/4,0,1/2,No existe,a,Matemáticas,Límites
+El límite lim_{x→-∞} (√(4x²+1))/(x+2) es:,-2,2,0,∞,a,Matemáticas,Límites
+Una función f(x) es continua en un intervalo cerrado [a b] si es continua en (a b) y además:,lim_{x→a⁺} f(x)=f(a) y lim_{x→b⁻} f(x)=f(b),f(a)=f(b),f'(x) existe en (a b),Ninguna de las anteriores,a,Matemáticas,Límites
+La derivada de f(x) = (2x³ - 1)^100 es:,600x²(2x³ - 1)^99,100(2x³ - 1)^99,600x²(2x³ - 1)^100,300x²(2x³ - 1)^99,a,Matemáticas,La derivada
+La derivada de y = x / (x²+1) es:,(1 - x²)/(x²+1)²,(x² - 1)/(x²+1)²,(1)/(x²+1)²,(2x)/(x²+1)²,a,Matemáticas,La derivada
+Usando derivación implícita| dy/dx para e^(xy) = x + y es:,(1 - y e^(xy))/(x e^(xy) - 1),(y e^(xy) - 1)/(1 - x e^(xy)),(1)/(e^(xy)-1),(1 - y)/(x-1),a,Matemáticas,La derivada
+La segunda derivada de f(x) = ln(3x+1) es:,-9/(3x+1)²,3/(3x+1)²,9/(3x+1)²,-3/(3x+1)²,a,Matemáticas,La derivada
+La ecuación de la tangente a la curva y = √x en el punto donde x=4 es:,x - 4y + 4 = 0,4x - y - 4 = 0,x - 4y - 4 = 0,4x - y + 4 = 0,a,Matemáticas,La derivada
+Si la posición de una partícula es s(t)=t² - 4t + 3 (t≥0)| ¿en qué instante cambia de dirección (velocidad cero)?,t=2,t=0,t=1,t=3,a,Matemáticas,La derivada
+Los intervalos donde f(x)=x³ - 6x² + 9x + 1 es creciente son:,(-∞ 1) U (3 ∞),(-∞ 1] U [3 ∞),(1 3),(-∞ ∞),a,Matemáticas,La derivada
+El valor mínimo absoluto de f(x)=x⁴ - 8x² + 16 en el intervalo [-1 3] es:,0,7,16,-9,a,Matemáticas,La derivada
+Los puntos de inflexión de f(x)=x⁴ - 4x³ se encuentran en:,x=0 y x=2,x=0,x=2,x=3,a,Matemáticas,La derivada
+Se desea construir una caja con base cuadrada y abierta por arriba| con 300 cm² de material. La longitud del lado de la base que maximiza el volumen es:,10 cm,5√6 cm,10√2 cm,15 cm,a,Matemáticas,La derivada
+La integral ∫(2x-1)^50 dx es:,(1/102)(2x-1)^51 + C,(1/51)(2x-1)^51 + C,50(2x-1)^49 + C,(1/50)(2x-1)^50 + C,a,Matemáticas,La integral
+El valor de la integral definida ∫_{-1}^{1} (x³ + 2x) dx es:,0,1,2,4,a,Matemáticas,La integral
+La integral ∫ x² e^{x³} dx es:,(1/3) e^{x³} + C,e^{x³} + C,3 e^{x³} + C,x³ e^{x³} + C,a,Matemáticas,La integral
+Aplicando el método de integración por partes a ∫ x ln(x) dx (con u=ln x)| el resultado es:,(x²/2) ln x - (x²/4) + C,x ln x - x + C,(1/2)(ln x)² + C,x² ln x - x² + C,a,Matemáticas,La integral
+La integral ∫ cos(3x) sen(3x) dx es:,-(1/6) cos²(3x) + C,(1/6) sen²(3x) + C,(1/2) sen(6x) + C,-(1/12) cos(6x) + C,a,Matemáticas,La integral
+La integral ∫ dx / (x ln x) es:,ln|ln x| + C,1/(ln x)² + C,ln x + C,1/x + C,a,Matemáticas,La integral
+El área de la región limitada por la curva y = 4 - x² y el eje X es:,32/3,16/3,64/3,8,a,Matemáticas,La integral
+Si F'(x) = 3x² - 2x y F(1)=4| entonces F(2) es igual a:,6,8,10,12,a,Matemáticas,La integral
+El resultado de sumar los números complejos (1+2i)| (-3+i) y (2-4i) es:,0 - i,6 - i,0 + 7i,-2 - i,a,Matemáticas,Operaciones con núm. reales complejos y expr. algebraicas
+El módulo del producto (3+4i)(3-4i) es:,25,5,7,1,a,Matemáticas,Operaciones con núm. reales complejos y expr. algebraicas
+Al simplificar la expresión (a² - b²)/(a-b) para a≠b| se obtiene:,a+b,a-b,1,(a²+b²)/(a-b),a,Matemáticas,Operaciones con núm. reales complejos y expr. algebraicas
+El término central en el desarrollo de (x + 1/x)^6 es:,20,15,6,1,a,Matemáticas,Productos notables y factorización
+Si al dividir P(x)=x³ - 4x² + kx - 8 entre (x-2) el residuo es 0| entonces k vale:,6,4,2,8,a,Matemáticas,Productos notables y factorización
+La ecuación (2x-1)(x+3)=0 tiene por conjunto solución:,\{1/2, -3\},\{-1/2, 3\},\{0.5, 3\},\{-0.5, -3\},a,Matemáticas,Ecuaciones
+El discriminante de la ecuación mx² + 2x + 1 = 0 es 0. El valor de m es:,1,2,1/2,4,a,Matemáticas,Ecuaciones
+La solución de la desigualdad -2x + 5 ≤ 3x + 10 es:,x ≥ -1,x ≤ -1,x ≥ 1,x ≤ 1,a,Matemáticas,Desigualdades
+El sistema { x + 2y = 4; 2x + 4y = 8 } es:,Dependiente (infinitas soluciones),Independiente (solución única),Inconsistente (sin solución),Homogéneo,a,Matemáticas,Sistemas de ecuaciones
+¿Cuál de las siguientes NO es una función? ,y = ±√x,y = x²,y = 2x+1,y = |x|,a,Matemáticas,Funciones algebraicas
+La función f(x)=1 si x es racional|0 si x es irracional| es:,Discontinua en todo punto,Continua en los racionales,Continua en 0,Continua en los irracionales,a,Matemáticas,Funciones algebraicas
+La operación (f * g)(x) si f(x)=x-1 y g(x)=x+1 es:,(x-1)(x+1)=x²-1,x-1+x+1=2x,(x-1)/(x+1),1,a,Matemáticas,Funciones algebraicas
+La expresión sen(π/2 + θ) es igual a:,cos θ,-cos θ,sen θ,-sen θ,a,Matemáticas,Trigonometría y Funciones Trigonométricas
+La función y = 2 sen(x - π/4) tiene un desplazamiento de fase de:,π/4 a la derecha,π/4 a la izquierda,π/2 a la derecha,π/2 a la izquierda,a,Matemáticas,Trigonometría y Funciones Trigonométricas
+El rango de la función f(x) = 2 + 3 cos(5x) es:,[-1 5],[-1 1],[2 5],[-3 3],a,Matemáticas,Trigonometría y Funciones Trigonométricas
+La función f(x)=e^{-x} es:,Decreciente en todo su dominio,Creciente en todo su dominio,Constante,Par,a,Matemáticas,Funciones exponenciales y logarítmicas
+La asíntota vertical de f(x)=ln(2-x) es:,x=2,x=0,y=2,y=0,a,Matemáticas,Funciones exponenciales y logarítmicas
+La distancia del punto (3 5) a la recta y = 2x - 1 es:,0,√5,2,2/√5,a,Matemáticas,Geometría Analítica: Recta
+La pendiente de la recta perpendicular a la que pasa por (1 2) y (4 8) es:,-1/2,-2,-1/6,-6,a,Matemáticas,Geometría Analítica: Recta
+La ecuación de la mediana desde el vértice A(1 3) en un triángulo con B(-2 1) y C(4 5) es:,2x - 3y + 7 = 0,3x - 2y + 3 = 0,x + y - 4 = 0,2x + y - 5 = 0,a,Matemáticas,Geometría Analítica: Recta
+El radio de la circunferencia x² + y² + 8x - 6y = 0 es:,5,√10,√13,25,a,Matemáticas,Geometría Analítica: Cónicas
+El lado recto de la parábola (y-1)² = 12(x+2) mide:,12,6,3,24,a,Matemáticas,Geometría Analítica: Cónicas
+La excentricidad de la elipse 16x² + 25y² = 400 es:,3/5,4/5,√41/5,5/3,a,Matemáticas,Geometría Analítica: Cónicas
+La distancia entre los focos de la hipérbola x²/9 - y²/16 = 1 es:,10,8,6,2√7,a,Matemáticas,Geometría Analítica: Cónicas
+La ecuación 4x² - y² - 8x + 6y - 1 = 0 representa una hipérbola. Su centro está en:,(1 3),(1 -3),(-1 3),(-1 -3),a,Matemáticas,Ecuación general de segundo grado
+Para la ecuación Ax² + Bxy + Cy² + Dx + Ey + F = 0| si B² - 4AC = 0| la cónica es una:,Parábola,Elipse,Hipérbola,Circunferencia,a,Matemáticas,Ecuación general de segundo grado
+El límite lim_{x→π/2} (tan x) es:,No existe (tiende a infinito),0,1,π/2,a,Matemáticas,Límites
+El límite lim_{x→0} (e^x - 1)/x es:,1,0,e,No existe,a,Matemáticas,Límites
+La función f(x)=|x-1|/(x-1) es discontinua en x=1. Esta discontinuidad es:,Por salto,Removible,Infinita,Evitable,a,Matemáticas,Límites
+La derivada de f(x)=5 es:,0,5,5x,Indefinida,a,Matemáticas,La derivada
+La derivada de f(x)=x² sen x es:,2x sen x + x² cos x,2x cos x,x² cos x,2x sen x - x² cos x,a,Matemáticas,La derivada
+La derivada de f(x)=arctan(3x) es:,3/(1+9x²),1/(1+9x²),3/(1+x²),1/(1+3x²),a,Matemáticas,La derivada
+Un punto crítico donde f'(x) no existe es llamado:,Punto singular,Punto estacionario,Punto de inflexión,Punto extremo,a,Matemáticas,La derivada
+Si el ingreso marginal es la derivada de la función ingreso| entonces el ingreso por vender la unidad 101 se aproxima con:,R'(100),R(101)-R(100),R'(101),R(101),a,Matemáticas,La derivada
+La integral ∫ sec²(5x) dx es:,(1/5) tan(5x) + C,tan(5x) + C,5 tan(5x) + C,sec(5x) tan(5x) + C,a,Matemáticas,La integral
+La integral ∫ (x+1) / (x²+2x+5) dx se puede resolver con:,Sustitución u=x²+2x+5,Fracciones parciales,Integración por partes,Identidad trigonométrica,a,Matemáticas,La integral
+El área entre las gráficas de y=x² y y=x³ en el intervalo [0 1] es:,1/12,1/6,1/4,1/3,a,Matemáticas,La integral
+Si la velocidad de un móvil es v(t)=3t²-2t+1 y en t=0 está en s=2| la posición en t=2 es:,8,6,10,4,a,Matemáticas,La integral
+El valor promedio de la función f(x)=sen x en el intervalo [0 π] es:,2/π,1/π,0,1,a,Matemáticas,La integral
