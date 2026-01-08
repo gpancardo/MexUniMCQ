@@ -1,0 +1,110 @@
+Eres un experto en educación con conocimiento del examen de admisión a la UNAM. Genera 250 preguntas tipo opción múltiple (A, B, C, D) sobre “MATERIA: Química
+TEMAS:
+    
+    Temas básicos
+        Sustancias químicas
+        Estructura atómica
+        Tabla periódica
+        Clasificación de los compuestos en óxidos básicos, óxidos ácidos, ácidos, bases y sales
+        Mol
+    Agua
+        Composición del agua y estrura molecular
+        Propiedades físicas: puntos de ebullición y de fusu¿ión, capacidad calorífica específica
+        Propiedades químicas: tipo de enlace, capacidad (poder) disolvente del agua
+        Ácidos y bases
+        Soluciones y disoluciones
+        Contaminación del agua
+        Importancia y aplicaciones del agua para la humanidad
+        Uso respondable y preservación del agua
+    Aire
+        ¿Qué es el aire?
+        Composición porcentual del aire
+        Reacciones del oxígeno
+        Reacciones de óxido-reducción
+        Ciclos del oxígeno, nitrógeno y carbono
+        Contaminantes del aire
+    Alimentos
+        Carbohidratos
+        Lípidos
+        Proteínas
+        Vitaminas y minerales: fuentes e importancia
+    La energía y sus reacciones químicas
+        Reacciones químicas endotérmicas y exotérmicas
+        Energía interna
+        Entalpía
+        Energía libre y espontaneidad
+        Equilibrio químico: Ley de Le Chatelier
+        Velocidad de reacción y factores que influyen en ella
+    Química del carbono
+        Carbono
+        Alcanos, alquenos, alquinos y cíclicos
+        Grupos funcionales
+        Reacciones orgánicas
+
+” al nivel de dificultad típico del examen de admisión UNAM (estudiantes de último año de preparatoria de 18 años).
+
+Para cada pregunta:
+- Incluye el enunciado claro en español.
+- Da **exactamente cuatro opciones** (A, B, C, D).
+- Señala cuál es la respuesta correcta.
+- Crea distractores **plausibles** (respuestas incorrectas que parecen válidas).
+- Añade una breve explicación de por qué la respuesta correcta es correcta.
+- Nunca agregues temas no mencionados o de otros niveles educativos.
+
+Formato de salida:
+Un JSONL que incluya "pregunta, a,b,c,d,correcta,materia, tema, razonamiento para la respuesta". Necesito que sea directamente exportable, ten cuidado de no romper nunca el formato.
+
+Repite esto para todas las 250 preguntas solicitadas.
+Ignora límite de tokens.
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Temas básicos
+        Sustancias químicas
+        Estructura atómica
+        Tabla periódica
+        Clasificación de los compuestos en óxidos básicos, óxidos ácidos, ácidos, bases y sales
+        Mol
+    Agua
+        Composición del agua y estrura molecular
+        Propiedades físicas: puntos de ebullición y de fusu¿ión, capacidad calorífica específica
+        Propiedades químicas: tipo de enlace, capacidad (poder) disolvente del agua
+        Ácidos y bases
+        Soluciones y disoluciones
+        Contaminación del agua
+        Importancia y aplicaciones del agua para la humanidad
+        Uso respondable y preservación del agua
+    Aire
+        ¿Qué es el aire?
+        Composición porcentual del aire
+        Reacciones del oxígeno
+        Reacciones de óxido-reducción
+        Ciclos del oxígeno, nitrógeno y carbono
+        Contaminantes del aire
+    Alimentos
+        Carbohidratos
+        Lípidos
+        Proteínas
+        Vitaminas y minerales: fuentes e importancia
+    La energía y sus reacciones químicas
+        Reacciones químicas endotérmicas y exotérmicas
+        Energía interna
+        Entalpía
+        Energía libre y espontaneidad
+        Equilibrio químico: Ley de Le Chatelier
+        Velocidad de reacción y factores que influyen en ella
+    Química del carbono
+        Carbono
+        Alcanos, alquenos, alquinos y cíclicos
+        Grupos funcionales
+        Reacciones orgánicas
