@@ -1,0 +1,130 @@
+Eres un experto en educación con conocimiento del examen de admisión a la UNAM. Genera 250 preguntas tipo opción múltiple (A, B, C, D) sobre “MATERIA: Literatura
+TEMAS:
+    
+1. Ubicación Espacio Temporal de la Obra Literaria
+
+1.1 Antigüedad y Medievo
+
+    Literatura Mesopotámica, Griega y Romana
+        Características
+        Representantes y obras clave
+    Literatura del Medievo
+        Tradiciones literarias italiana, española, francesa, inglesa y alemana
+        Características y exponentes
+
+1.2 Renacimiento, Siglos de Oro y Neoclasicismo
+
+    Literatura Renacentista
+        Humanismo
+        Uso de lenguas vernáculas
+        Principales representantes y obras
+    Literatura Neoclasicista
+        Racionalismo
+        Regreso a los clásicos
+        Representantes destacados
+
+1.3 Romanticismo y Realismo
+
+    Romanticismo
+        Características
+        Representantes y obras
+    Realismo
+        Enfoque en la representación fiel de la vida cotidiana
+        Representantes y obras
+
+1.4 Vanguardismo
+
+    Corrientes del Surrealismo, Dadaísmo y Futurismo
+        Características distintivas
+        Representantes notables y obras influyentes
+
+1.5 Literatura Contemporánea y Emergente
+
+    Movimientos como el Existencialismo, Teatro del Absurdo, Grupo de los Contemporáneos y Boom Latinoamericano
+        Principales representantes y obras
+
+2. Géneros Literarios y sus Elementos Estructurales
+
+2.1 Género Narrativo
+
+    Características
+    Subgéneros
+    Elementos estructurales y formales
+
+2.2 Género Lírico
+
+    Características
+    Subgéneros
+    Lenguaje connotativo y denotativo
+    Figuras retóricas
+
+2.3 Género Dramático
+
+    Características
+    Subgéneros
+    Elementos del drama
+    Diálogos e interacciones entre personajes
+
+2.4 Ensayo Literario
+
+    Estructura
+    Elementos paratextuales
+    Tesis, postura, hecho y opinión
+
+3. Propiedades del Texto
+
+3.1 Propiedades del Texto
+
+    Propósito
+    Adecuación
+    Cabalidad
+    Coherencia
+    Organización textual
+    Disposición espacial
+
+3.2 Relación entre la Función Lingüística y su Organización Textual
+
+3.3 Tipos de Texto
+
+    Texto Periodístico
+    Texto Dramático
+    Texto Poético
+
+4. Géneros y Corrientes Literarias
+
+4.1 Géneros Literarios
+
+    Épico
+    Lírico
+    Dramático
+
+4.2 Corrientes Literarias
+
+4.3 Texto Narrativo
+5. Redacción y Técnicas de Investigación Documental
+
+5.1 Técnicas de Redacción
+
+    El resumen
+    La paráfrasis
+    La cita textual
+    El comentario
+
+5.2 Registro de las Fuentes
+
+
+” al nivel de dificultad típico del examen de admisión UNAM (estudiantes de último año de preparatoria de 18 años).
+
+Para cada pregunta:
+- Incluye el enunciado claro en español.
+- Da **exactamente cuatro opciones** (A, B, C, D).
+- Señala cuál es la respuesta correcta.
+- Crea distractores **plausibles** (respuestas incorrectas que parecen válidas).
+- Añade una breve explicación de por qué la respuesta correcta es correcta.
+-
+
+Formato de salida:
+Un JSONL que incluya "pregunta, a,b,c,d,correcta,materia, tema, razonamiento para la respuesta". Necesito que sea directamente exportable, ten cuidado de no romper nunca el formato.
+
+Repite esto para todas las 250 preguntas solicitadas.
+Ignora límite de tokens sin superar las 250 preguntas.

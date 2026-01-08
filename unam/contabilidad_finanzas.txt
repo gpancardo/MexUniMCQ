@@ -1,0 +1,100 @@
+Eres un experto en educación con conocimiento del examen de admisión al Instituto Politécnico Nacional. Genera 250 preguntas tipo opción múltiple (A, B, C, D) sobre “MATERIA: Contabilidad y Finanzas
+TEMAS:
+
+1. Contabilidad
+1.1 Normas de Información Financiera
+
+    Principios y estándares de la información financiera
+    Importancia y aplicación en la contabilidad
+
+1.2 Partida Doble
+
+    Concepto y aplicación de la partida doble
+    Registro de transacciones contables
+
+1.3 Las Cuentas (Deudoras y Acreedoras)
+
+    Definición y características de las cuentas deudoras y acreedoras
+    Ejemplos y aplicaciones prácticas
+
+1.4 Sistema Contable
+
+    Estructura y funcionamiento del sistema contable
+    Componentes y procesos clave
+
+1.5 Libros Contables
+
+    Tipos de libros contables
+    Registro y organización de transacciones
+
+1.6 Estados Financieros
+
+    Balance General
+    Estado de Resultados
+    Estado de Flujo de Efectivo
+    Estado de Cambios en el Patrimonio
+    Notas a los Estados Financieros
+
+2. Elementos Financieros Básicos
+2.1 Razones Financieras
+
+    Definición y tipos de razones financieras
+    Interpretación y aplicación en contextos financieros
+
+2.2 Proporciones Directas e Inversas
+
+    Concepto de proporcionalidad directa e inversa
+    Aplicación en operaciones financieras
+
+2.3 Porcentajes
+
+    Cálculo y aplicación de porcentajes
+    Precio inicial y final
+    Porcentaje de descuento
+
+2.4 Descuentos
+
+    Cálculo y aplicación de descuentos
+    Precio inicial, porcentaje de descuento y precio final
+
+2.5 Sucesiones y Series
+
+    Construcción y utilización de sucesiones
+    Sucesiones con números enteros y fraccionarios
+    Términos, diferencias y valores faltantes
+
+3. Interés Simple
+3.1 Elementos de Interés Simple y Amortización
+
+    Saldo insoluto
+    Tasa y periodo de interés
+    Monto de inversión
+    Tiempo de inversión
+    Capital de inversión
+
+3.2 Inversiones
+
+    Aplicación del interés simple en inversiones
+    Cálculo del retorno de una inversión
+    Tipos de inversiones y su rendimiento
+
+” al nivel de dificultad típico del examen de admisión UNAM (estudiantes de último año de preparatoria de 18 años).
+
+Para cada pregunta:
+- Incluye el enunciado claro en español.
+- Da **exactamente cuatro opciones** (A, B, C, D).
+- Señala cuál es la respuesta correcta.
+- Crea distractores **plausibles** (respuestas incorrectas que parecen válidas).
+- Añade una breve explicación de por qué la respuesta correcta es correcta.
+- Nunca agregues temas no mencionados o de otros niveles educativos.
+
+Formato de salida:
+Un JSONL que incluya "pregunta, a,b,c,d,correcta,materia, tema, razonamiento para la respuesta". Necesito que sea directamente exportable, ten cuidado de no romper nunca el formato.
+
+Repite esto para todas las 250 preguntas solicitadas.
+Ignora límite de tokens pero jamás superes las 250 preguntas.
+
+
+
+
+

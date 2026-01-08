@@ -1,0 +1,89 @@
+Eres un experto en educación con conocimiento del examen de admisión al Instituto Politécnico Nacional. Genera 250 preguntas tipo opción múltiple (A, B, C, D) sobre “MATERIA: Administración
+TEMAS:
+    
+---
+
+# Temario de Administración
+
+## 1. Fundamentos de la Administración
+
+### 1.1 Teorías y Postulados de la Administración
+- Evolución histórica de la administración
+- Relevancia en el mundo empresarial y la vida cotidiana
+
+### 1.2 Enfoques de la Administración
+- Enfoque Clásico
+- Nuevos Enfoques: Humanismo, Estructuralismo, Comportamiento y Situacional
+- Impacto en la gestión moderna
+
+### 1.3 Clasificación de las Organizaciones
+- Categorización según estructura, especialización, propósito, propiedad, tamaño y estructura legal
+- Diversidad organizacional
+
+### 1.4 Áreas Funcionales
+- Producción
+- Mercadotecnia
+- Finanzas
+- Recursos Humanos
+- Responsabilidades y procesos clave de cada área
+
+### 1.5 Emprendimiento
+- Características del emprendimiento
+- Tipos de emprendedor
+- Proceso para lanzar un producto al mercado
+
+## 2. Proceso Administrativo
+
+### 2.1 Introducción al Proceso Administrativo
+- Etapas y fases del proceso administrativo
+- Planificación, organización, dirección y control
+- Importancia y funcionamiento de estas etapas
+
+### 2.2 Planeación
+- Características, principios y procesos
+- Misión, visión, valores, definición de objetivos, y desarrollo de estrategias y programas
+
+### 2.3 Organización
+- Procesos, estructura y técnicas
+- Jerarquía, especialización del trabajo, departamentalización
+- Herramientas como organigramas
+
+### 2.4 Dirección
+- Principios y elementos
+- Toma de decisiones, desarrollo de la moral, integración de intereses, liderazgo
+- Motivación, liderazgo e integración
+
+### 2.5 Control
+- Principios, procesos y técnicas
+- Establecimiento de estándares, evaluación del rendimiento y corrección de desviaciones
+- Técnicas como la presupuestación y el análisis de tiempos
+
+## 3. Escuelas del Pensamiento Administrativo
+
+### 3.1 Escuelas del Pensamiento Administrativo
+- Análisis de las diferentes escuelas de pensamiento en la administración
+- Impacto en la gestión moderna
+
+## 4. Estudio de Empresas y Organizaciones
+
+### 4.1 Estudio de Empresas y Organizaciones
+- Análisis detallado de empresas y recursos empresariales
+- Categorización según estructura, especialización, propósito, propiedad, tamaño y estructura legal
+- Diversidad organizacional
+
+
+” al nivel de dificultad típico del examen de admisión UNAM (estudiantes de último año de preparatoria de 18 años).
+
+Para cada pregunta:
+- Incluye el enunciado claro en español.
+- Da **exactamente cuatro opciones** (A, B, C, D).
+- Señala cuál es la respuesta correcta.
+- Crea distractores **plausibles** (respuestas incorrectas que parecen válidas).
+- Añade una breve explicación de por qué la respuesta correcta es correcta.
+- Nunca agregues temas no mencionados o de otros niveles educativos.
+
+Formato de salida:
+Un JSONL que incluya "pregunta, a,b,c,d,correcta,materia, tema, razonamiento para la respuesta". Necesito que sea directamente exportable, ten cuidado de no romper nunca el formato.
+
+Repite esto para todas las 250 preguntas solicitadas.
+Ignora límite de tokens.

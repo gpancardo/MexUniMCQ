@@ -1,0 +1,96 @@
+Eres un experto en educación con conocimiento del examen de admisión a la UNAM. Genera 250 preguntas tipo opción múltiple (A, B, C, D) sobre “MATERIA: Física
+TEMAS:
+    
+Cinemática
+
+    Características de los fenómenos mecánicos
+    Movimiento rectilíneo uniforme
+    Movimiento uniformemente acelerado
+
+Fuerzas, leyes de Newton, Ley de la Gravitación Universal
+
+    Factores que cambian la estructura o el estado de movimiento de objetos
+    El concepto de fuerza
+    El carácter vectorial de la fuerza
+    Superposición de fuerzas
+    Primera Ley de Newton
+    Segunda Ley de Newton
+    Tercera Ley de Newton
+    Equilibrio rotacional y traslacional
+    Ley de la Fuerza en un resorte
+    Ley de la Gravitación Universal
+
+Trabajo y leyes de la conservación
+
+    Concepto de trabajo mecánico
+    Concepto de potencia
+    Energía cinética
+    Energía potencial
+    Conservación de la energía mecánica
+    Conservación del ímpetu
+    Colisiones entre partículas en una dimensión
+    Procesos disipativos
+
+Termodinámica
+
+    Calor y temperatura
+    Teoría cinética de los gases
+
+Ondas
+
+    Caracterización de ondas mecánicas
+    Reflexión de refracción de ondas
+    Difracción e interferencia de ondas
+    Energía de una onda incidente y de las ondas transmitida y reflejada
+
+Electromagnetismo
+
+    Efectos cualitativos entre cuerpos cargados eléctricamente
+    Ley de Coulomb
+    Ley de Ohm
+    Circuitos
+    Campo magnético
+    Inducción electromagnética
+    Relación entre campo magnético y eléctrico
+    Inducción de campos
+    La luz como onda electromagnética
+    Espectro electromagnético
+    Leyes de Ampere-Maxwell
+    Leyes de Faraday y Henry
+
+Fluidos
+
+    Fluidos en reposo
+    Fluidos en movimiento
+
+Óptica
+
+    Reflexión y refracción de la luz
+    Espejos planos y esféricos
+    Lentes convergentes y divergentes
+    Punto de vista contemporáneo
+
+Física contemporánea
+
+    Estructura atómica de la materia
+    Física nueclar
+    Otras formas de energía
+
+
+
+
+” al nivel de dificultad típico del examen de admisión UNAM (estudiantes de último año de preparatoria de 18 años).
+
+Para cada pregunta:
+- Incluye el enunciado claro en español.
+- Da **exactamente cuatro opciones** (A, B, C, D).
+- Señala cuál es la respuesta correcta.
+- Crea distractores **plausibles** (respuestas incorrectas que parecen válidas).
+- Añade una breve explicación de por qué la respuesta correcta es correcta.
+-
+
+Formato de salida:
+Un JSONL que incluya "pregunta, a,b,c,d,correcta,materia, tema, razonamiento para la respuesta". Necesito que sea directamente exportable, ten cuidado de no romper nunca el formato.
+
+Repite esto para todas las 250 preguntas solicitadas.
+Ignora límite de tokens sin superar las 250 preguntas.

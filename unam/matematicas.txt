@@ -1,0 +1,111 @@
+Eres un experto en educación con conocimiento del examen de admisión a la UNAM. Genera 250 preguntas tipo opción múltiple (A, B, C, D) sobre “MATERIA: Matemáticas
+TEMAS:
+    
+Operaciones con números reales, complejos y expresiones algebraicas
+    Números reales
+    Números complejos
+    Expresiones algebraicas
+Productos notables y factorización
+    Binomio de Newton
+    Teorema del residuo y del factor
+    Simplificación de fracciones algebraicas
+    Operaciones con fracciones algebraicas
+Ecuaciones
+    Ecuación, identidad y propiedades de la igualdad
+    Ecuaciones de primer grado
+    Ecuaciones de segundo grado
+Desigualdades
+    Desigualdades de primer grado en una variable y sus propiedades
+Sistemas de ecuaciones
+    Sistemas de dos ecuaciones lineales con dos incógnitas
+    Sistema de tres ecuaciones lineales con tres incógnitas
+Funciones algebraicas
+    Dominio, contradominio y regla de correspondencia
+    Rango e imagen
+    Gráfica
+    Implícitas y explícitas
+    Crecientes y decrecientes
+    Continuas y discontinuas
+    Álgebra de funciones
+Trigonometría
+    Trigonometría básica
+    Funciones trigonométricas
+Funciones exponenciales y logarítmicas
+    Dominio y rango
+    Gráficas y asíntotas
+Recta
+    Distancia entre dos puntos
+    Coordenadas de un punto que divide a un segmento
+    Pendiente de una recta
+    Formas de la ecuación de la recta y su gráfica
+    Condiciones de paralelismo y perpendicularidad
+    Distancia de un punto a una recta
+    Ecuaciones de las medianas, mediatrices y alturas de un triángulo
+Circunferencia
+    Circunferencia como lugar geométrico
+    Formas ordinaria y general de la ecuación de la circunferencia
+    Ecuación de la circunferencia con centro en (h, k)
+    Elementos de una circunferencia
+Parábola
+    Parábola como lugar geométrico
+    Formas ordinaria y general de la ecuación de la parábola
+    Elementos de una parábola
+Elipse
+    Elipse como ligar geométrico
+    Relación de los parámetros a, b, y c
+    Forma ordinaria y general de la ecuación de la elipse
+    Elementos de una elipse
+Hipérbola
+    Hipérbola como lugar geométrico
+    Relación de los parámetros a, b, y c
+    Formas ordinaria y general de la ecuación de la hipérbola
+    Elementos de una hipérbola
+Ecuación general de segundo grado
+    Cónicas
+    Ecuación general de segundo grado
+    Criterios para identificar a la cónica que representa una ecuación de segundo grado
+    Traslación de ejes
+Límites
+    Concepto intuitivo
+    Definición formal
+    Teoremas sobre límites
+    Obtención de límites
+    Formas indeterminadas
+    Continuidad en un punto y en un intervalo
+La derivada
+    Definición de derivada y sus notaciones
+    Obtención de derivadas
+    Regla de la cadena
+    Derivada de funciones implícitas
+    Derivadas sucesivas de una función
+    Interpretación geométrica y física
+    Ecuaciones de la tangente y de la normal a una curva
+    Cálculo de velocidad y aceleración de un móvil
+    Máximos y mínimos relativos de una función
+    Máximos y mínimos relativos absolutos en un intervalo cerrado
+    Puntos de inflexión y de concavidad en una curva
+    Problemas de la vida cotidiana
+La integral
+    Función integrable en un intervalo cerrado
+    Teoremas que justifican las propiedades de la integral de una función
+    Integral inmediata
+    Tabla de fórmulas de integración
+    Métodos de integración
+    Integral definida y su notación
+
+
+” al nivel de dificultad típico del examen de admisión UNAM (estudiantes de último año de preparatoria de 18 años).
+
+Para cada pregunta:
+- Incluye el enunciado claro en español.
+- Da **exactamente cuatro opciones** (A, B, C, D).
+- Señala cuál es la respuesta correcta.
+- Crea distractores **plausibles** (respuestas incorrectas que parecen válidas).
+- Añade una breve explicación de por qué la respuesta correcta es correcta.
+-
+
+Formato de salida:
+Un JSONL que incluya "pregunta, a,b,c,d,correcta,materia, tema, razonamiento para la respuesta". Necesito que sea directamente exportable, ten cuidado de no romper nunca el formato.
+
+Repite esto para todas las 250 preguntas solicitadas.
+Ignora límite de tokens.
