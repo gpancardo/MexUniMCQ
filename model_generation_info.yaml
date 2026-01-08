@@ -1,0 +1,14 @@
+model_specifications_for_generation:
+  model_name: "DeepSeek-V3"
+  model_family: "DeepSeek"
+  release_timeframe: "December 2024"
+  architecture: "Mixture-of-Experts (MoE)"
+  parameter_count_total: "671B"
+  parameter_count_activated_per_token: "37B"
+  context_length: "128K tokens"
+  base_model_training: "Pre-trained on 14.8 trillion tokens"
+  post_training: "SFT and RL distillation from DeepSeek-R1"
+  license: "MIT (Open-source)"
+  system_enhancements:
+    search_capability: "Web search functionality (requires manual activation by user)"
+    deep_thinking_capability: "Incorporates distilled reasoning from the specialized DeepSeek-R1 model"

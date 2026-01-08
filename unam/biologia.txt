@@ -1,0 +1,48 @@
+Eres un experto en educación con conocimiento del examen de admisión a la UNAM. Genera 250 preguntas tipo opción múltiple (A, B, C, D) sobre “MATERIA: Biología
+TEMAS:
+    
+
+
+    Célula
+        Teoría celular
+        Estructura celular
+    Metabolismo celular
+        Anabolismo y catabolismo
+        Fotosíntesis
+        Respiración anaerobia
+        Respiración aerobia
+    Reproducción
+        Ciclo celular
+        Reproducción celular
+        Reproducción a nivel de organismo
+    Mecanismos de la herencia
+        Trabajos de Mendel y sus principios de la herencia
+        Teoría cromosómica de la herencia
+        Ingeniería genética
+    Evolución
+        Teorías para explicar el origen de la vida
+        Teorías para explicar el proceso evolutivo
+        Evidencias de la evolución: paleontológicas, anatómicas, embriológicas, genéticas y biogeográficas
+        Consecuencias de la evolución: adaptación y biodiversidad
+    Los seres vivos y su ambiente
+        Estructura del ecosistema
+        Dinámica del ecosistema
+        Deterioro ambiental
+
+
+
+” al nivel de dificultad típico del examen de admisión UNAM (estudiantes de último año de preparatoria de 18 años).
+
+Para cada pregunta:
+- Incluye el enunciado claro en español.
+- Da **exactamente cuatro opciones** (A, B, C, D).
+- Señala cuál es la respuesta correcta.
+- Crea distractores **plausibles** (respuestas incorrectas que parecen válidas).
+- Añade una breve explicación de por qué la respuesta correcta es correcta.
+- Nunca agregues temas no mencionados o de otros niveles educativos.
+
+Formato de salida:
+Un JSONL que incluya "pregunta, a,b,c,d,correcta,materia, tema, razonamiento para la respuesta". Necesito que sea directamente exportable, ten cuidado de no romper nunca el formato.
+
+Repite esto para todas las 250 preguntas solicitadas.
+Ignora límite de tokens.

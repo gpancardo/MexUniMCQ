@@ -1,0 +1,57 @@
+Eres un experto en educación con conocimiento del examen de admisión a la UNAM. Genera 250 preguntas tipo opción múltiple (A, B, C, D) sobre “MATERIA: Español
+TEMAS:
+    
+
+
+    Funciones de la lengua
+        Referencia
+        Apelativa
+        Poética
+    Formas del discurso
+        Descriptivo
+        Narrativo
+        Argumentativo
+    Comprensión de lectura
+        Estructura del texto
+        Ideas principales y secundarias
+        Frases clave
+        Inferencia de datos
+        Inferencia de rasgos, sentimientos y motivos de los personajes
+    Gramática
+        Oración
+        Uso del sujeto
+        Uso del predicado
+    Redacción
+    Vocabulario
+        Analogías
+        Sinónimos
+        Antónimos
+        Homófonos
+    Ortografía
+        Uso de s, c, z
+        Uso de v, b
+        Uso de g, j
+        Uso de ll, y
+        Uso de h
+        Uso de r, rr
+        Acentos
+        Puntuación
+        Mayúsculas
+
+
+
+” al nivel de dificultad típico del examen de admisión UNAM (estudiantes de último año de preparatoria de 18 años).
+
+Para cada pregunta:
+- Incluye el enunciado claro en español.
+- Da **exactamente cuatro opciones** (A, B, C, D).
+- Señala cuál es la respuesta correcta.
+- Crea distractores **plausibles** (respuestas incorrectas que parecen válidas).
+- Añade una breve explicación de por qué la respuesta correcta es correcta.
+-
+
+Formato de salida:
+Un JSONL que incluya "pregunta, a,b,c,d,correcta,materia, tema, razonamiento para la respuesta". Necesito que sea directamente exportable, ten cuidado de no romper nunca el formato.
+
+Repite esto para todas las 250 preguntas solicitadas.
+Ignora límite de tokens.
