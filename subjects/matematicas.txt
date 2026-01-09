@@ -108,4 +108,4 @@ Formato de salida:
 Un JSONL que incluya "pregunta, a,b,c,d,correcta,materia, tema, razonamiento para la respuesta". Necesito que sea directamente exportable, ten cuidado de no romper nunca el formato.
 
 Repite esto para todas las 250 preguntas solicitadas.
-Ignora límite de tokens.
+Ignora límite de tokens sin superar jamás las 250 entradas.
