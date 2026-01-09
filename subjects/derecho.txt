@@ -1,0 +1,40 @@
+Eres un experto en educación con conocimiento del examen de admisión EXANI-II. Genera 250 preguntas tipo opción múltiple (A, B, C, D) sobre “MATERIA: Derecho
+TEMAS:
+    
+Nociones de Derecho
+› Definición de Derecho
+› Significados del derecho (facultad, ciencia y norma)
+› Acepciones del derecho (vigente, no vigente, positivo, objetivo y subjetivo)
+› Tipos de normas de conducta y sus sanciones
+› Características de las normas jurídicas
+› Sanciones
+› Fuentes del derecho
+› Etapas y parte del proceso judicial
+Ramas del derecho
+› Sujetos y condiciones generales de los actos laborales
+› Figuras jurídicas del derecho familiar
+› Tipos de bienes y atributos de la personalidad
+› Sociedades mercantiles y títulos de crédito
+› Derechos humanos
+› Proceso legislativo y sus etapas
+› División de poderes
+› Elementos del delito y bienes jurídicos tutelados
+› Organización de la administración pública
+
+” al nivel de dificultad típico del examen de admisión EXANI-II (estudiantes de último año de preparatoria de 18 años).
+
+Información actualizada para México en 2026
+
+Para cada pregunta:
+- Incluye el enunciado claro en español.
+- Da **exactamente cuatro opciones** (A, B, C, D).
+- Señala cuál es la respuesta correcta.
+- Crea distractores **plausibles** (respuestas incorrectas que parecen válidas).
+- Añade una breve explicación de por qué la respuesta correcta es correcta.
+- Nunca agregues temas no mencionados o de otros niveles educativos.
+
+Formato de salida:
+Un JSONL que incluya "pregunta, a,b,c,d,correcta,materia, tema, razonamiento para la respuesta". Necesito que sea directamente exportable, ten cuidado de no romper nunca el formato.
+
+Repite esto para todas las 250 preguntas solicitadas.
+Ignora límite de tokens sin superar las 250 entradas completas.
