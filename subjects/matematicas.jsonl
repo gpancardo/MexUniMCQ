@@ -603,4 +603,3 @@
 {"pregunta": "El valor de la expresión (7⁴ / 7²) es:", "a": "7²", "b": "7⁶", "c": "7⁸", "d": "7¹⁰", "correcta": "a", "materia": "Matemáticas", "tema": "Operaciones con números reales", "razonamiento para la respuesta": "7^{4-2} = 7² = 49."}
 {"pregunta": "La derivada de f(x) = ln(√x) es:", "a": "1/(2x)", "b": "1/√x", "c": "1/(2√x)", "d": "1/x", "correcta": "a", "materia": "Matemáticas", "tema": "Obtención de derivadas", "razonamiento para la respuesta": "ln(√x) = (1/2) ln x. Derivada: 1/(2x)."}
 {"pregunta": "El valor de la integral ∫ (2eˣ + 4x) dx es:", "a": "2eˣ + 2x² + C", "b": "2eˣ + 4x²/2 + C", "c": "2eˣ + 4x² + C", "d": "2eˣ + 2x²/2 + C", "correcta": "a", "materia": "Matemáticas", "tema": "Integral inmediata", "razonamiento para la respuesta": "∫2eˣ dx = 2eˣ; ∫4x dx = 2x². Sumando: 2eˣ + 2x² + C."}
-{"pregunta": "La ecuación de la recta que pasa por (0, 0) y es perpendicular a la recta y = 9x + 5 es:", "a": "y = - (1/9)x", "b": "y = (1/9)x", "c
