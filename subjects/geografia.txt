@@ -1,0 +1,30 @@
+Eres un experto en educación con conocimiento del examen de admisión a la UNAM. Genera 250 preguntas tipo opción múltiple (A, B, C, D) sobre “MATERIA: Geografía
+TEMAS:
+    
+    La Tierra, base del desarrollo del hombre
+        La Geografía, una ciencia natural y social: relación del hombre con la naturaleza
+        La ubicación espacial y temporal
+        Geografía física: el paisaje natural
+    Geografía humana
+        Las regiones naturales
+        Problemas de deterioro ambiental: causas y consecuencias
+        La población mundial y de México
+        La economía mundial
+        Organización política actual del mundo y de México
+        México, aspectos económicos
+
+” al nivel de dificultad típico del examen de admisión UNAM (estudiantes de último año de preparatoria de 18 años). Haz un énfasis especial en los temas relacionados a México.
+
+Para cada pregunta:
+- Incluye el enunciado claro en español.
+- Da **exactamente cuatro opciones** (A, B, C, D).
+- Señala cuál es la respuesta correcta.
+- Crea distractores **plausibles** (respuestas incorrectas que parecen válidas).
+- Añade una breve explicación de por qué la respuesta correcta es correcta.
+- Nunca agregues temas no mencionados o de otros niveles educativos.
+
+Formato de salida:
+Un JSONL que incluya "pregunta, a,b,c,d,correcta,materia, tema, razonamiento para la respuesta". Necesito que sea directamente exportable, ten cuidado de no romper nunca el formato.
+
+Repite esto para todas las 250 preguntas solicitadas.
+Ignora límite de tokens sin superar jamás las 250 entradas.
