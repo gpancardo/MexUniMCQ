@@ -1,0 +1,146 @@
+Eres un experto en educación con conocimiento del examen de admisión al Instituto Politécnico Nacional. Genera 250 preguntas tipo opción múltiple (A, B, C, D) sobre “MATERIA: Filosofía
+TEMAS:
+    
+Temario integrado (en formato esquemático) para un banco amplio de ~250 preguntas.
+
+**Fundamentos de la Filosofía**
+
+* Origen de la filosofía
+
+  * Asombro, duda y pregunta filosófica
+  * Presocráticos
+* Etapas históricas
+
+  * Filosofía antigua: Sócrates, Platón, Aristóteles
+  * Filosofía medieval
+  * Filosofía moderna
+  * Filosofía contemporánea
+* Características del saber filosófico
+* Ramas de la filosofía
+
+**Lógica y Argumentación**
+
+* Lógica
+
+  * Tipos de lenguaje
+
+    * Lenguaje cotidiano
+    * Lenguaje científico
+    * Lenguaje filosófico
+  * Estructura de los argumentos
+
+    * Premisas y conclusiones
+    * Validez y solidez
+* Argumentación filosófica
+* Tipos de racionalidad
+
+**Ética y Axiología**
+
+* Ética
+
+  * Moral
+  * Responsabilidad moral
+  * Valores
+* Posturas éticas
+* Posturas axiológicas
+* Principios bioéticos
+* Bioética
+* Ética de la ciencia y la tecnología
+
+**Disciplinas y Problemas de la Filosofía**
+
+* Ontología
+
+  * El ser
+  * La realidad
+* Epistemología
+
+  * Conocimiento
+  * Verdad
+  * Justificación
+* Estética
+
+  * Arte
+  * Belleza
+  * Experiencia estética
+
+**El Sentido de la Vida como Problema Filosófico**
+
+* El significado de la vida
+* El buen vivir
+* Naturaleza humana
+* Existencialismo
+* Justicia y sentido de la existencia
+* Cuidado de sí mismo
+
+**Conocimiento Filosófico de Sí Mismo y de los Otros**
+
+* Identidad personal
+* Persistencia de la identidad
+* Autoconciencia y reflexión
+* Relación con otras personas
+* Comunidad y sociedad
+* Dimensiones del ser humano
+
+**Problemas Filosóficos Contemporáneos**
+
+* Discriminación
+
+  * Tipos de discriminación
+* Globalización
+
+  * Economía
+  * Cultura
+  * Tecnología
+  * Medio ambiente
+* Nuevas tecnologías y dilemas éticos
+* Discursos culturales contemporáneos
+
+**Filosofía Mexicana**
+
+* Pensamiento prehispánico
+* Filosofía colonial
+* Siglo XIX en México
+
+  * Liberalismo
+  * Conservadurismo
+  * Romanticismo
+  * Positivismo
+* Siglo XX en México
+
+  * Ateneo de la Juventud
+  * Grupo Hiperión
+* Filosofía contemporánea en México
+
+  * Filosofía feminista
+  * Estudios de género
+
+**Identidad Nacional**
+
+* Identidad nacional mexicana
+* Cosmovisión prehispánica
+* Identidad del mexicano en la literatura
+* Nacionalismo mexicano
+
+  * Pasado heroico
+  * Símbolos patrios
+  * Folclor y conmemoraciones
+* Multiculturalidad
+* Interculturalidad
+* Aculturación
+
+” al nivel de dificultad típico del examen de admisión UNAM (estudiantes de último año de preparatoria de 18 años).
+
+Para cada pregunta:
+- Incluye el enunciado claro en español.
+- Da **exactamente cuatro opciones** (A, B, C, D).
+- Señala cuál es la respuesta correcta.
+- Crea distractores **plausibles** (respuestas incorrectas que parecen válidas).
+- Añade una breve explicación de por qué la respuesta correcta es correcta.
+- Nunca agregues temas no mencionados o de otros niveles educativos.
+
+Formato de salida:
+Un JSONL que incluya "pregunta, a,b,c,d,correcta,materia, tema, razonamiento para la respuesta". Necesito que sea directamente exportable, ten cuidado de no romper nunca el formato.
+
+Repite esto para todas las 250 preguntas solicitadas.
+Ignora límite de tokens.

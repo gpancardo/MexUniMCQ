@@ -1,0 +1,58 @@
+Eres un experto en educación con conocimiento del examen de admisión a la UNAM. Genera 250 preguntas tipo opción múltiple (A, B, C, D) sobre “MATERIA: Historia de México
+TEMAS:
+    
+    La Nueva España
+        Los antecedentes: Mesoamérica, áreas culturales
+        Descubrimiento y conquista militar y espiritual de México
+        La organización política
+        La estructura económica y social
+        Las Reformas Borbónicas
+        Las ciencias y las artes
+    El movimiento de Independencia de la Nueva España
+        Causas y antecedentes
+        Etapas del movimiento: iniciación, organización, resistencia y consumación
+    México Independiente
+        Los primeros proyectos de organización política
+        Los conflictos internacionales
+        La situación económica
+        La lucha del federalismo y centralismo
+    La Reforma Liberal y la resistencia de la República
+        La Revolución de Ayutla
+        El Congreso Constituyente y la Constitución de 1857
+        El gobierno de Benito Juárez y las Leyes de Reforma
+        La intervención francesa en México y el Imperio de Maximiliano
+        La Restauración de la República: los gobiernos de Benito Juárez y Sebastián Lerdo de Tejada
+    El Porfiriato
+        Los gobiernos de Porfirio Díaz: el estado liberal oligárquico y la dictadura
+        Los aspectos económicos, sociales y culturales del régimen porfirista
+        Los movimientos de oposición al régimen porfirista
+    La Revolución Mexicana
+        Los antecedentes de la Revolución Mexicana
+        Las etapas de la lucha armada: maderismo, constitucionalismo y lucha de facciones
+        El Congreso Constituyente y la Constitución de 1917
+        El gobierno de Venustiano Carranza
+    La reconstrucción nacional
+        Del caudillismo al presidencialismo
+        El Maximato
+        El Plan Sexenal y el Cardenismo
+    México contemporáneo
+        Las políticas de Unidad Nacional
+        El desarrollo estabilizador y el “milagro mexicano”
+        La política del desarrollo compartido
+        La política neoliberal en México y la globalización
+
+” al nivel de dificultad típico del examen de admisión UNAM (estudiantes de último año de preparatoria de 18 años).
+
+Para cada pregunta:
+- Incluye el enunciado claro en español.
+- Da **exactamente cuatro opciones** (A, B, C, D).
+- Señala cuál es la respuesta correcta.
+- Crea distractores **plausibles** (respuestas incorrectas que parecen válidas).
+- Añade una breve explicación de por qué la respuesta correcta es correcta.
+- Nunca agregues temas no mencionados o de otros niveles educativos.
+
+Formato de salida:
+Un JSONL que incluya "pregunta, a,b,c,d,correcta,materia, tema, razonamiento para la respuesta". Necesito que sea directamente exportable, ten cuidado de no romper nunca el formato.
+
+Repite esto para todas las 250 preguntas solicitadas.
+Ignora límite de tokens.
