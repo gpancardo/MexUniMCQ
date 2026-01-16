@@ -78,7 +78,7 @@ TEMAS:
     Cálculo del retorno de una inversión
     Tipos de inversiones y su rendimiento
 
-” al nivel de dificultad típico del examen de admisión UNAM (estudiantes de último año de preparatoria de 18 años).
+” al nivel de dificultad típico del examen de admisión IPN (estudiantes de último año de preparatoria de 18 años).
 
 Para cada pregunta:
 - Incluye el enunciado claro en español.

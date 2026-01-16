@@ -1,7 +1,7 @@
-Eres un experto en educación con conocimiento del examen de admisión al Instituto Politécnico Nacional. Genera 250 preguntas tipo opción múltiple (A, B, C, D) sobre “MATERIA: Filosofía
+Eres un experto en educación con conocimiento del examen de admisión a la UNAM. Genera 250 preguntas tipo opción múltiple (A, B, C, D) sobre “MATERIA: Filosofía
 TEMAS:
     
-Temario integrado (en formato esquemático) para un banco amplio de ~250 preguntas.
+Temario integrado (en formato esquemático) para un banco amplio de 250 preguntas.
 
 **Fundamentos de la Filosofía**
 

@@ -1,0 +1,14 @@
+model_specifications_for_generation:
+  model_name: "GPT-5.2"
+  model_family: "GPT (OpenAI)"
+  release_timeframe: "2025"
+  architecture: "Transformer-based neural network (implementation details not publicly disclosed)"
+  parameter_count_total: "Not publicly disclosed"
+  parameter_count_activated_per_token: "Not publicly disclosed"
+  context_length: "Not publicly disclosed (extended context supported)"
+  base_model_training: "Pre-trained on a mixture of licensed data, data created by human trainers, and publicly available data"
+  post_training: "Supervised Fine-Tuning (SFT) and Reinforcement Learning from Human Feedback (RLHF)"
+  license: "Proprietary – OpenAI Terms of Use"
+  system_enhancements:
+    search_capability: "No (web search not used in this chat)"
+    deep_thinking_capability: "Integrated reasoning capabilities from training and alignment (no separate reasoning model invoked)"

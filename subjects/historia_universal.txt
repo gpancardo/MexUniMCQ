@@ -1,0 +1,50 @@
+Eres un experto en educación con conocimiento del examen de admisión a la UNAM. Genera 250 preguntas tipo opción múltiple (A, B, C, D) sobre “MATERIA: Historia Universal
+TEMAS:
+
+    La Historia
+        Definición y utilidad de la Historia
+        Periodización de la Historia
+    Las Revoluciones burguesas
+        Las ideas de la Ilustración
+        El fortalecimiento de la burguesía
+        El liberalismo económico y político del siglo XIX
+    Pensamiento y movimientos sociales y políticos del siglo XIX
+        La lucha entre el liberalismo y conservadurismo
+        Los movimientos obreros y el pensamiento socialista
+        El nacionalismo y los procesos de unificación nacional de Italia y Alemania
+    El imperialismo
+        La revolución científico-tecnológica
+        La expansión colonia y las rivalidades imperialistas
+    Primera Guerra Mundial
+        Los antecedentes inmediatos y el desarrollo
+        La Revolución Socialista Rusa y las consecuencias de la Primera Guerra Mundial
+    El mundo entre guerras
+        La Crisis de 1929
+        Los regímenes totalitarios
+    Segunda Guerra Mundial
+        El origen y el desarrollo
+        Las consecuencias
+    El conflicto entre el capitalismo y socialismo
+        Los bloques de poder
+        La Guerra Fría
+        Luchas de liberación nacional de Asia y África
+    El mundo actual
+        La caída del bloque soviético
+        La globalización económica y política
+        El desarrollo científico y tecnológico
+
+” al nivel de dificultad típico del examen de admisión UNAM (estudiantes de último año de preparatoria de 18 años).
+
+Para cada pregunta:
+- Incluye el enunciado claro en español.
+- Da **exactamente cuatro opciones** (A, B, C, D).
+- Señala cuál es la respuesta correcta.
+- Crea distractores **plausibles** (respuestas incorrectas que parecen válidas).
+- Añade una breve explicación de por qué la respuesta correcta es correcta.
+- Nunca agregues temas no mencionados o de otros niveles educativos.
+
+Formato de salida:
+Un JSONL que incluya "pregunta, a,b,c,d,correcta,materia, tema, razonamiento para la respuesta". Necesito que sea directamente exportable, ten cuidado de no romper nunca el formato.
+
+Repite esto para todas las 250 preguntas solicitadas.
+Ignora límite de tokens.

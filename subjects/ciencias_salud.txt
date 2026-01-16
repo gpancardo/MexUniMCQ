@@ -1,0 +1,301 @@
+Eres un experto en educación con conocimiento del examen de admisión EXANI-II. Genera 250 preguntas tipo opción múltiple (A, B, C, D) sobre “MATERIA: Ciencias de la Salud
+TEMAS:
+Salud y Enfermedad desde la Salud Pública
+
+Concepto de salud y enfermedad
+
+Definición de salud (OMS)
+
+Modelos de salud–enfermedad
+
+Determinantes de la salud
+
+Medicina comunitaria
+
+Enfoque poblacional de la salud
+
+Proceso Salud–Enfermedad
+
+Terminología de ciencias de la salud
+
+Términos técnicos médicos
+
+Raíces, prefijos y sufijos
+
+Composición de términos médicos
+
+Tríada ecológica
+
+Agente
+
+Huésped
+
+Medio ambiente
+
+Cadena epidemiológica
+
+Propagación de enfermedades
+
+Historia Natural de la Enfermedad
+
+Periodos de la historia natural
+
+Fases de la enfermedad
+
+Niveles de prevención
+
+Prevención primaria
+
+Prevención secundaria
+
+Prevención terciaria
+
+Modelo de Leavell y Clark
+
+Signos, Síntomas y Riesgos para la Salud
+
+Signos y síntomas
+
+Diferencias entre signo y síntoma
+
+Signos vitales
+
+Síndromes
+
+Conductas de riesgo
+
+Tabaquismo
+
+Alcoholismo
+
+Alimentación no saludable
+
+Situaciones de emergencia
+
+Infarto
+
+Evento cerebrovascular
+
+Accidentes
+
+Anatomía y Fisiología: Bases Generales
+
+Niveles de organización biológica
+
+Nivel químico
+
+Nivel celular
+
+Nivel tisular
+
+Órganos y sistemas
+
+Divisiones anatómicas
+
+Sistemas de referencia anatómica
+
+Morfofisiología del Cuerpo Humano
+
+Sistema músculo esquelético
+
+Huesos
+
+Músculos
+
+Movimiento y postura
+
+Sistema tegumentario
+
+Piel
+
+Cabello
+
+Uñas
+
+Sistema nervioso
+
+Sistema nervioso central
+
+Sistema nervioso periférico
+
+Neuronas y sinapsis
+
+Sistema endocrino
+
+Glándulas endocrinas
+
+Hormonas
+
+Homeostasis
+
+Sistema cardiovascular
+
+Corazón
+
+Vasos sanguíneos
+
+Circulación
+
+Sistema respiratorio
+
+Vías respiratorias
+
+Pulmones
+
+Intercambio gaseoso
+
+Sistema digestivo
+
+Órganos digestivos
+
+Digestión y absorción
+
+Sistema urinario
+
+Riñones
+
+Formación de orina
+
+Excreción
+
+Sistema reproductor
+
+Aparato reproductor masculino
+
+Aparato reproductor femenino
+
+Gametogénesis
+
+Reproducción humana
+
+Sistema linfático
+
+Vasos linfáticos
+
+Ganglios
+
+Sistema inmunológico
+
+Inmunidad innata
+
+Inmunidad adaptativa
+
+Vacunas
+
+Biología Celular
+
+Estructura celular
+
+Organelos celulares
+
+Mitocondria
+
+Retículo endoplásmico
+
+Aparato de Golgi
+
+Transporte a través de la membrana
+
+Difusión
+
+Ósmosis
+
+Transporte activo
+
+Endocitosis y exocitosis
+
+Bioquímica y Metabolismo
+
+Biomoléculas
+
+Carbohidratos
+
+Lípidos
+
+Proteínas
+
+Ácidos nucleicos
+
+Metabolismo celular
+
+Respiración celular
+
+Glucólisis
+
+Ciclo de Krebs
+
+Cadena de transporte de electrones
+
+Genética
+
+Introducción a la genética
+
+ADN
+
+Replicación
+
+Transcripción
+
+Traducción
+
+Leyes de Mendel
+
+Herencia mendeliana
+
+Herencia no mendeliana
+
+Mutaciones
+
+Enfermedades genéticas
+
+Microbiología y Parasitología Médica
+
+Microorganismos
+
+Bacterias
+
+Virus
+
+Parásitos
+
+Patogenicidad
+
+Respuesta inmune a infecciones
+
+Enfermedades infecciosas
+
+Farmacología Básica
+
+Farmacocinética
+
+Absorción
+
+Distribución
+
+Metabolismo
+
+Excreción
+
+Farmacodinámica
+
+Interacciones medicamentosas
+
+Efectos secundarios
+
+
+
+” al nivel de dificultad típico del examen de admisión EXANI-II (estudiantes de último año de preparatoria de 18 años).
+
+Para cada pregunta:
+- Incluye el enunciado claro en español.
+- Da **exactamente cuatro opciones** (A, B, C, D).
+- Señala cuál es la respuesta correcta.
+- Crea distractores **plausibles** (respuestas incorrectas que parecen válidas).
+- Añade una breve explicación de por qué la respuesta correcta es correcta.
+- Nunca agregues temas no mencionados o de otros niveles educativos.
+
+Formato de salida:
+Un JSONL que incluya "pregunta, a,b,c,d,correcta,materia, tema, razonamiento para la respuesta". Necesito que sea directamente exportable, ten cuidado de no romper nunca el formato.
+
+Repite esto para todas las 250 preguntas solicitadas.
+Ignora límite de tokens.
